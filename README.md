@@ -1,6 +1,6 @@
 **FakeAPI** — сервис для разработки и тестирования, который позволяет запускать Mock API-проекты без написания серверного кода.
 
-[Сайт](https://fake-api.ru/) [Telegram](https://t.me/fake_api_ru)
+🌐 [fake-api.ru](https://fake-api.ru/) &nbsp;|&nbsp; ✈️ [Telegram](https://t.me/fake_api_ru)
 
 Сервис полезен, когда нужно:
 - начать фронтенд-разработку до готовности реального API;
